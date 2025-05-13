@@ -14,7 +14,7 @@ public class Pattern_plainQuadrilateral {
 
         for(int i=1; i<=a; i++){   // this row
             for(int j=1; j<=b; j++){  // this cols
-                System.out.print("*");
+                System.out.print("* ");
             }
             System.out.println(); //this works as to print next line
         }

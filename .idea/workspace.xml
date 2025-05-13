@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="pattern rectangle">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_plainQuadrilateral.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="plain quadrilateral pattern">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_solidSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_plainQuadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_plainQuadrilateral.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_PATTERN/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern_plainQuadrilateral">
+  <component name="RunManager" selected="Application.Pattern_solidSquare">
     <configuration name="Pattern_basic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_basic1" />
       <module name="a-z_PATTERN" />
@@ -51,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_solidSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_solidSquare" />
+      <module name="a-z_PATTERN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_solidSquare" />
         <item itemvalue="Application.Pattern_plainQuadrilateral" />
         <item itemvalue="Application.Pattern_basic1" />
       </list>
@@ -75,12 +84,29 @@
       <option name="project" value="LOCAL" />
       <updated>1747042744214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="plain quadrilateral pattern">
+      <option name="closed" value="true" />
+      <created>1747105701894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747105701894</updated>
+    </task>
+    <task id="LOCAL-00003" summary="plain quadrilateral pattern">
+      <option name="closed" value="true" />
+      <created>1747105748900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747105748900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pattern rectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern rectangle" />
+    <MESSAGE value="plain quadrilateral pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="plain quadrilateral pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
