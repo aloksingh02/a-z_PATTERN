@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-z_PATTERN.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_basic1.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="pattern rectangle">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_plainQuadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_PATTERN/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Pattern_plainQuadrilateral">
     <configuration name="Pattern_basic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_basic1" />
       <module name="a-z_PATTERN" />
@@ -50,8 +44,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_plainQuadrilateral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_plainQuadrilateral" />
+      <module name="a-z_PATTERN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_plainQuadrilateral" />
         <item itemvalue="Application.Pattern_basic1" />
       </list>
     </recent_temporary>
@@ -65,7 +67,20 @@
       <option name="presentableId" value="Default" />
       <updated>1746916104343</updated>
     </task>
+    <task id="LOCAL-00001" summary="pattern rectangle">
+      <option name="closed" value="true" />
+      <created>1747042744214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747042744214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pattern rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern rectangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
