@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="alphanumeric">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_reverseRightTriangle.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="reverse right triangle">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_alphaNumeric2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_oddRightTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pattern_reverseRightTriangle">
+  <component name="RunManager" selected="Application.Pattern_alphaNumeric2">
     <configuration name="Pattern_ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_ASCII" />
       <module name="a-z_PATTERN" />
@@ -47,6 +48,13 @@
     </configuration>
     <configuration name="Pattern_alphaNumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_alphaNumeric" />
+      <module name="a-z_PATTERN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern_alphaNumeric2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_alphaNumeric2" />
       <module name="a-z_PATTERN" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_solidIncrementSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_solidIncrementSquare" />
-      <module name="a-z_PATTERN" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_alphaNumeric2" />
         <item itemvalue="Application.Pattern_reverseRightTriangle" />
         <item itemvalue="Application.Pattern_alphaNumeric" />
         <item itemvalue="Application.Pattern_rightAngleTrinangle" />
         <item itemvalue="Application.Pattern_ASCII" />
-        <item itemvalue="Application.Pattern_solidIncrementSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747118557770</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="reverse right triangle">
+      <option name="closed" value="true" />
+      <created>1747121452122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747121452122</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,7 +185,8 @@
     <MESSAGE value="pattern using ascii value (j+64)" />
     <MESSAGE value="right angle triangle" />
     <MESSAGE value="alphanumeric" />
-    <option name="LAST_COMMIT_MESSAGE" value="alphanumeric" />
+    <MESSAGE value="reverse right triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse right triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
