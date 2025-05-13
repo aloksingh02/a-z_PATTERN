@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="solid number square">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_solidIncrementSquare.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="solid number increment square">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_ASCII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +36,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_PATTERN/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern_solidIncrementSquare">
-    <configuration name="Pattern_basic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_basic1" />
+  <component name="RunManager" selected="Application.Pattern_ASCII">
+    <configuration name="Pattern_ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_ASCII" />
       <module name="a-z_PATTERN" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_ASCII" />
         <item itemvalue="Application.Pattern_solidIncrementSquare" />
         <item itemvalue="Application.Pattern_numberSquare" />
         <item itemvalue="Application.Pattern_solidSquare" />
         <item itemvalue="Application.Pattern_plainQuadrilateral" />
-        <item itemvalue="Application.Pattern_basic1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747108667286</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solid number increment square">
+      <option name="closed" value="true" />
+      <created>1747110328743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110328743</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,7 +147,8 @@
     <MESSAGE value="plain quadrilateral pattern" />
     <MESSAGE value="solid square" />
     <MESSAGE value="solid number square" />
-    <option name="LAST_COMMIT_MESSAGE" value="solid number square" />
+    <MESSAGE value="solid number increment square" />
+    <option name="LAST_COMMIT_MESSAGE" value="solid number increment square" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
