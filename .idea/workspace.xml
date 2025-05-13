@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="right angle triangle">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_alphaNumeric.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="alphanumeric">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_reverseRightTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_PATTERN/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/a-z_PATTERN/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Pattern_alphaNumeric">
+}]]></component>
+  <component name="RunManager" selected="Application.Pattern_reverseRightTriangle">
     <configuration name="Pattern_ASCII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_ASCII" />
       <module name="a-z_PATTERN" />
@@ -50,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_numberSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_numberSquare" />
+    <configuration name="Pattern_reverseRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_reverseRightTriangle" />
       <module name="a-z_PATTERN" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_reverseRightTriangle" />
         <item itemvalue="Application.Pattern_alphaNumeric" />
         <item itemvalue="Application.Pattern_rightAngleTrinangle" />
         <item itemvalue="Application.Pattern_ASCII" />
         <item itemvalue="Application.Pattern_solidIncrementSquare" />
-        <item itemvalue="Application.Pattern_numberSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747117670931</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="alphanumeric">
+      <option name="closed" value="true" />
+      <created>1747118557770</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747118557770</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,7 +175,8 @@
     <MESSAGE value="solid number increment square" />
     <MESSAGE value="pattern using ascii value (j+64)" />
     <MESSAGE value="right angle triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="right angle triangle" />
+    <MESSAGE value="alphanumeric" />
+    <option name="LAST_COMMIT_MESSAGE" value="alphanumeric" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
