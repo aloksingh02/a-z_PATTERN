@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="reverse right triangle">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_oddRightTriangle.java" afterDir="false" />
+    <list default="true" id="795dfd4d-9e35-41ee-9f40-0be555e9e444" name="Changes" comment="pattern odd triangle">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_reverseCountingTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern_oddRightTriangle">
+  <component name="RunManager" selected="Application.Pattern_reverseCountingTriangle">
     <configuration name="Pattern_alphaNumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_alphaNumeric" />
       <module name="a-z_PATTERN" />
@@ -58,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pattern_reverseCountingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_reverseCountingTriangle" />
+      <module name="a-z_PATTERN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern_reverseRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern_reverseRightTriangle" />
       <module name="a-z_PATTERN" />
@@ -65,20 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern_rightAngleTrinangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern_rightAngleTrinangle" />
-      <module name="a-z_PATTERN" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern_reverseCountingTriangle" />
+        <item itemvalue="Application.Pattern_reverseRightTriangle" />
         <item itemvalue="Application.Pattern_oddRightTriangle" />
         <item itemvalue="Application.Pattern_alphaNumeric2" />
-        <item itemvalue="Application.Pattern_reverseRightTriangle" />
         <item itemvalue="Application.Pattern_alphaNumeric" />
-        <item itemvalue="Application.Pattern_rightAngleTrinangle" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747122858377</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pattern odd triangle">
+      <option name="closed" value="true" />
+      <created>1747125534864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747125534864</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,7 +201,8 @@
     <MESSAGE value="right angle triangle" />
     <MESSAGE value="alphanumeric" />
     <MESSAGE value="reverse right triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse right triangle" />
+    <MESSAGE value="pattern odd triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern odd triangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
